@@ -1,0 +1,13 @@
+Default:
+  Link Type: TCP
+RS485 Port:
+  COM_Port: COM6
+  address: 1
+  baudrate: 115200
+  databits: 8
+  parity: O
+  stopbits: 1
+Tcp Port:
+  IP address: 192.168.10.20
+  rack: 0
+  slot: 1

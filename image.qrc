@@ -1,0 +1,40 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Icon/companyIcn_20210630101706.jpg</file>
+    <file>Icon/kanMai.png</file>
+    <file>Icon/kanMai_1.png</file>
+    <file>Icon/Background_head.png</file>
+    <file>Icon/1506.png</file>
+    <file>Icon/4505.png</file>
+    <file>Icon/17633.png</file>
+    <file>Icon/26604.png</file>
+    <file>Icon/508422.png</file>
+    <file>Icon/1156896.png</file>
+    <file>Icon/abort.png</file>
+    <file>Icon/add.png</file>
+    <file>Icon/background.png</file>
+    <file>Icon/cfg.png</file>
+    <file>Icon/config.png</file>
+    <file>Icon/contact.png</file>
+    <file>Icon/del.png</file>
+    <file>Icon/Dlight 3.png</file>
+    <file>Icon/dlight.png</file>
+    <file>Icon/edit.png</file>
+    <file>Icon/Exit.png</file>
+    <file>Icon/file.png</file>
+    <file>Icon/filequit.png</file>
+    <file>Icon/FileSel.png</file>
+    <file>Icon/lock.png</file>
+    <file>Icon/login.png</file>
+    <file>Icon/logo_InitialStart.png</file>
+    <file>Icon/logo2.ico</file>
+    <file>Icon/logout.png</file>
+    <file>Icon/next.png</file>
+    <file>Icon/NG.jpg</file>
+    <file>Icon/Pass.jpg</file>
+    <file>Icon/play.png</file>
+    <file>Icon/Quit.png</file>
+    <file>Icon/redo.png</file>
+    <file>Icon/select.png</file>
+  </qresource>
+</RCC>
